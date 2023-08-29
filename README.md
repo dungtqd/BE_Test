@@ -1,6 +1,6 @@
-Đề bài
+**Đề bài**
 
-#Yêu cầu:
+_#Yêu cầu:_
 1. Database: MySQL, Postgres,...
 2. Framework: Spring (Spring JPA, Spring JDBC,...)
 
@@ -19,6 +19,6 @@ Bài 3
 1. Tích hợp bài 1 và bài 2 thành UMS Microservice tích hợp oauth2
 2. Tạo 1 microservice với restapi helloworld và tích hợp với microservice UMS để authen. 
 
-#Lợi thế:
+_#Lợi thế:_
 1. Tích hợp CI/CD là một lợi thế
 2. Viết UnitTest là một lợi thế
